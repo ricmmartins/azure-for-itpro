@@ -34,6 +34,7 @@
 |Business continuity with data resiliency|https://azurecomcdn.azureedge.net/mediahandler/files/resourcefiles/azure-resiliency-infographic/Azure_resiliency_infographic.pdf|
 |Azure Availability Set|https://docs.microsoft.com/en-us/azure/virtual-machines/windows/manage-availability<br>https://docs.microsoft.com/en-us/azure/virtual-machines/linux/manage-availability|
 |Azure Resiliency|https://azure.microsoft.com/en-us/features/resiliency/|
+|Azure REsiliceny Infographic|https://aka.ms/azresilicency|
 
 
 ## Azure Planned Maintenance

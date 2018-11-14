@@ -62,6 +62,7 @@
 |Azure Reference Architectures|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/|
 |Design Review Checklists|https://docs.microsoft.com/en-us/azure/architecture/checklist/|
 |Azure security best practices and patterns|https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns|
+|Structured review of Azure architectures|https://blogs.msdn.microsoft.com/azurecat/2018/11/13/new-whitepaper-structured-review-of-azure-architectures/|
 
 	 
 ## Azure Books

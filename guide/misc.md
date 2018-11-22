@@ -7,37 +7,24 @@
 | --- | --- |
 |What is Azure|https://azure.microsoft.com/en-us/overview/what-is-azure/|
 |Azure Free Account|https://azure.microsoft.com/en-us/free/|
-|Azure Updates|https://azure.microsoft.com/en-us/updates/|
-|Azure Roadmap|https://azure.microsoft.com/en-us/roadmap/|
-|Last Week in Azure|https://azure.microsoft.com/en-us/blog/topics/last-week-in-azure/|
-|Azure Weekly| http://azureweekly.info/|
-|Updates on Azure Documentation|http://azuredocsupdates.azurewebsites.net/|
-|Azure Notes|https://azurenotes.tech/|
 |Azure VM Chooser|https://azurevmchooser.kvaes.be/|
 |Azure Interactives|https://azureinteractives.azurewebsites.net/|
 |Compare Clouds|http://comparecloud.in/|
 |Azure Brasil Group at Telegram|http://telegram.me/azurebrasil|
 |Fasttrack for Azure| https://github.com/Azure/fta-azurefoundations/|
-|White papers, analyst reports and e-books|https://azure.microsoft.com/en-us/resources/whitepapers/|
 |Migrate to Azure App Service|https://migrate4.azurewebsites.net/|
 |Azure Overview|https://azure-overview.com/|
-|Get started for Azure IT operators|https://docs.microsoft.com/en-us/azure/guides/operations/azure-operations-guide|
+|Azure News|https://github.com/ricmmartins/AzureReadiness/blob/master/README.md#weekly-updates|
 
 ## Azure Training & Readiness
 
 | Topic | Reference |
 | --- | --- |
-|Azure Learning Pathways|https://www.microsoft.com/en-au/azurelearningpathways|
 |Azure Readiness|	http://aka.ms/azreadiness
 |Azure for Architects| http://aka.ms/azarchitect| 
-|Microsoft Professional Program|	https://academy.microsoft.com/en-us/professional-program/tracks/
-|Azure on EDX|https://www.edx.org/course?search_query=azure 
-|Handson Labs|https://www.microsoft.com/handsonlabs/|
-| Azure on Linkedin Learn|https://www.linkedin.com/learning/search?keywords=Azure&u=3322|
 |Azure Learn|https://docs.microsoft.com/en-us/learn/azure/|
 |Azure Free Trainings at Pluralsight| http://pluralsight.com/partners/microsoft/azure |
 |Microsoft Role-based Certifications|http://aka.ms/RoleBasedCert|
-|Microsoft Learning on Github|https://github.com/MicrosoftLearning|
 
 ## Azure for AWS Professionals
 | Topic | Reference |
@@ -67,18 +54,15 @@
 
 | Topic | Reference |
 | --- | --- |
-| Azure Virtual Datacenter eBook| http://aka.ms/VDC/eBook|
-| Azure Virtual Datacenter: Lift and Shift Guide| https://azure.microsoft.com/en-us/resources/azure-virtual-datacenter-lift-and-shift-guide/|
+|Azure Books, Guides and Papers|https://github.com/ricmmartins/AzureReadiness/blob/master/README.md#azure-books-guides-and-papers|
 
-## Videos
+
+## Events, Shows, Videos and Meetings
 
 | Topic | Reference |
 | --- | --- |
-|Microsoft Mechanics | https://www.youtube.com/user/OfficeGarageSeries|
-|Cloud Ranger Network|https://www.youtube.com/channel/UCNA6zO3qpCuZR-dUsAi9FGQ|
-|Azure Development Group| https://youtube.com/Azuredevelopmentgroup|
-|Azure Power Lunch| https://www.youtube.com/channel/UCaqQqG2zrK3vL4UMx6seOoA|
-|Jeffrey Richter Videos | https://www.youtube.com/user/JeffreyMRichter|
+|Events, Shows, Videos and Meetings|https://github.com/ricmmartins/AzureReadiness/blob/master/README.md#events-shows-videos-and-meetings|
+
 
 
 

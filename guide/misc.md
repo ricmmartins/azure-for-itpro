@@ -29,13 +29,11 @@
 | --- | --- |
 |Azure Learning Pathways|https://www.microsoft.com/en-au/azurelearningpathways|
 |Azure Readiness|	http://aka.ms/azreadiness
-|Azure Essentials|	http://azure.com/essentials 
-|Azure Skills|	https://azure.microsoft.com/en-us/training/
+|Azure for Architects| http://aka.ms/azarchitect| 
 |Microsoft Professional Program|	https://academy.microsoft.com/en-us/professional-program/tracks/
 |Azure on EDX|https://www.edx.org/course?search_query=azure 
 |Handson Labs|https://www.microsoft.com/handsonlabs/|
-|Azure Citadel|https://azurecitadel.github.io/|
-|Azure Monitoring Hackaton| https://github.com/rkuehfus/AzureMonitoringHackathon/|
+| Azure on Linkedin Learn|https://www.linkedin.com/learning/search?keywords=Azure&u=3322|
 |Azure Learn|https://docs.microsoft.com/en-us/learn/azure/|
 |Azure Free Trainings at Pluralsight| http://pluralsight.com/partners/microsoft/azure |
 |Microsoft Role-based Certifications|http://aka.ms/RoleBasedCert|

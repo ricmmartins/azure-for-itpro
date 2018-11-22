@@ -49,13 +49,11 @@
 |Azure security best practices and patterns|https://docs.microsoft.com/en-us/azure/security/security-best-practices-and-patterns|
 |Structured review of Azure architectures|https://blogs.msdn.microsoft.com/azurecat/2018/11/13/new-whitepaper-structured-review-of-azure-architectures/|
 
-	 
 ## Azure Books
 
 | Topic | Reference |
 | --- | --- |
 |Azure Books, Guides and Papers|https://github.com/ricmmartins/AzureReadiness/blob/master/README.md#azure-books-guides-and-papers|
-
 
 ## Events, Shows, Videos and Meetings
 

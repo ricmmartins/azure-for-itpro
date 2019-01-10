@@ -15,6 +15,7 @@
 |Migrate to Azure App Service|https://migrate4.azurewebsites.net/|
 |Azure Overview|https://azure-overview.com/|
 |Azure News|https://github.com/ricmmartins/AzureReadiness/blob/master/README.md#weekly-updates|
+|Azure Price|https://azureprice.net/|
 
 ## Azure Training & Readiness
 

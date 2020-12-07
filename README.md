@@ -27,7 +27,7 @@ The purspose of this guide is to help cover this lack,  being a useful, structur
 10. [Azure Misc](guide/misc.md)
 
 
-> [@ricardommartins](http://twitter.com/ricardommartins)
+> [@ricmmartins](http://twitter.com/ricmmartins)
 
 
 
